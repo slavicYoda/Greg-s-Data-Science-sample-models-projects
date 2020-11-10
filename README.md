@@ -5,7 +5,7 @@ Please keep in mind that I'm not able to share full-fledged, productionalized mo
 Thus I'm sharing models/projects that were actioned and ultimately served as basis for production-ready models but might not be finished products.
 I lead Data Science and Intelligent Automation capability for the group, while holding the role of Head of Machine Learning, Automation & Technology Platforms at RS.
 
-If you have question, hit me up.
+If you have questions, hit me up.
 
 Cheers,
 Greg Lee-Podgorski
