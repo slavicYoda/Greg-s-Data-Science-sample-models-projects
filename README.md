@@ -1,5 +1,6 @@
 # Greg-brief-intro-4-recruiters
 #
+Hello,
 This is a repository set up to share some of my Data Science models and projects that I have been working  on while working at RS Components.
 Please keep in mind that I'm not able to share full-fledged, productionalized models as my contract prevents me from doing so.
 Thus I'm sharing models/projects that were actioned and ultimately served as basis for production-ready models but might not be finished products.
